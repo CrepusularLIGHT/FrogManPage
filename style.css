@@ -1,0 +1,23 @@
+body {
+    background-image: url("images/naturePath.jpeg");
+    background-color: #cccccc;
+    background-position-y: top;
+    background-position-x: center;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+
+/* @media (max-width: 600px) {
+    body {
+        flex-wrap: wrap;
+    }
+}
+
+
+}
+@media (min-width: 599px) {
+    body {
+        flex-wrap: wrap;
+    }
+} */
